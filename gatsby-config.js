@@ -11,7 +11,7 @@ module.exports = {
       twitter: `kasedac`,
     },
   },
-  pathPrefix: "/blog-sandbox",
+  pathPrefix: `/blog-sandbox`,
   plugins: [
     `gatsby-plugin-image`,
     {
