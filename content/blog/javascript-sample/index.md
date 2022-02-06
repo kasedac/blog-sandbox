@@ -38,4 +38,4 @@ function factorial(n) {
 }
 ```
 
-出典： [JavaScript - Wkikipedia](https://ja.wikipedia.org/wiki/JavaScript)
+出典： [JavaScript - Wikipedia](https://ja.wikipedia.org/wiki/JavaScript)
