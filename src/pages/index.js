@@ -16,9 +16,8 @@ const BlogIndex = ({ data, location }) => {
         <Seo title="投稿一覧" />
         <p>{siteDescription}</p>
         <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
-          gatsby-config.js).
+          投稿記事が見つかりません。マークダウンの記事を "content/blog" (または
+          gatsby-config.jsの中の"gatsby-source-filesystem"で指定したディレクトリ）に追加してください。
         </p>
         <Bio />
       </Layout>
